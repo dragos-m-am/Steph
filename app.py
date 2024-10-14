@@ -1,4 +1,4 @@
-# https://cookbook.openai.com/examples/assistants_api_overview_python
+# Fully using - https://cookbook.openai.com/examples/assistants_api_overview_python
 import streamlit as st
 from openai import OpenAI
 import os
